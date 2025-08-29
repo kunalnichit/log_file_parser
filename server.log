@@ -1,0 +1,14 @@
+2025-08-27 10:15:22 INFO User john logged in
+2025-08-27 10:16:05 ERROR Disk space low
+2025-08-27 10:16:07 ERROR Disk space low
+2025-08-27 10:18:12 INFO User mary logged out
+2025-08-27 10:20:45 WARN CPU usage at 90%
+2025-08-27 10:25:03 INFO User alice logged in
+2025-08-27 10:27:18 ERROR Failed to connect to database
+2025-08-27 10:30:00 INFO User john logged out
+2025-08-27 10:35:44 DEBUG Session token refreshed for mary
+2025-08-27 10:40:01 INFO User bob logged in
+2025-08-27 10:42:37 WARN Memory usage high
+2025-08-27 10:45:12 ERROR Disk write failed
+2025-08-27 10:45:17 ERROR Disk write failed
+2025-08-27 10:50:00 INFO User alice logged out
